@@ -1,0 +1,6 @@
+G-RAT Payload
+Type: windows
+C2 Server: http://localhost:8080
+Beacon Interval: 60 seconds
+Persistence: false
+Obfuscation: true

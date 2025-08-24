@@ -1,0 +1,229 @@
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/process_control
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/icloud
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/escalate
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/webcam
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/outlook
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/persistence
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/miner
+2025/08/23 01:17:14 main.go:71: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/process_control
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/persistence
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/miner
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/escalate
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/outlook
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/icloud
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/webcam
+2025/08/23 01:50:00 main.go:79: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 01:50:00 main.go:88: listen tcp :8080: bind: address already in use
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/outlook
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/persistence
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/escalate
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/icloud
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/miner
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/webcam
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 01:52:45 main.go:79: Registered plugin handler: /api/plugin/process_control
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/process_control
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/outlook
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/icloud
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/persistence
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/miner
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/escalate
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 02:06:35 main.go:79: Registered plugin handler: /api/plugin/webcam
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/escalate
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/webcam
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/persistence
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/miner
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/process_control
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/outlook
+2025/08/23 02:22:14 main.go:89: Registered plugin handler: /api/plugin/icloud
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/persistence
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/escalate
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/webcam
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/process_control
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/outlook
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/icloud
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/miner
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 02:32:43 main.go:89: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/outlook
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/icloud
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/miner
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/escalate
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/webcam
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/persistence
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 21:57:36 main.go:89: Registered plugin handler: /api/plugin/process_control
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/outlook
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/persistence
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/escalate
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/webcam
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/process_control
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/icloud
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 22:17:18 main.go:89: Registered plugin handler: /api/plugin/miner
+2025/08/23 22:32:44 api.go:93: Agent registered: test () from 1.2.3.4
+2025/08/23 22:35:55 api.go:233: Added task 250f79e0746eef90a7905854e47f4176 to queue for agent test: shell
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/miner
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/escalate
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/outlook
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/persistence
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/webcam
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/process_control
+2025/08/23 22:58:34 main.go:89: Registered plugin handler: /api/plugin/icloud
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/webcam
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/port_scan
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/process_control
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/miner
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/escalate
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/outlook
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/icloud
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/persistence
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/keylogger
+2025/08/23 23:03:26 main.go:89: Registered plugin handler: /api/plugin/screenshot
+2025/08/23 23:05:06 server.go:3640: http: panic serving 192.168.18.173:34396: pattern "/downloads/" (registered at /home/kali/g-rat/server/main.go:109) conflicts with pattern "/downloads/" (registered at /home/kali/g-rat/server/main.go:81):
+/downloads/ matches the same requests as /downloads/
+goroutine 35 [running]:
+net/http.(*conn).serve.func1()
+	/usr/local/go/src/net/http/server.go:1947 +0xbe
+panic({0x91d460?, 0xc000022cb0?})
+	/usr/local/go/src/runtime/panic.go:792 +0x132
+net/http.(*ServeMux).register(...)
+	/usr/local/go/src/net/http/server.go:2872
+net/http.Handle({0x99890e?, 0xc000000460?}, {0xa451c0?, 0xc0001ab410?})
+	/usr/local/go/src/net/http/server.go:2856 +0x79
+main.redirectToDashboard({0xa487f8?, 0xc000000460?}, 0xc000037b38?)
+	/home/kali/g-rat/server/main.go:109 +0xf7
+net/http.HandlerFunc.ServeHTTP(0xd7dec0?, {0xa487f8?, 0xc000000460?}, 0x6ac216?)
+	/usr/local/go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x473e59?, {0xa487f8, 0xc000000460}, 0xc0000e6b40)
+	/usr/local/go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000379350?}, {0xa487f8?, 0xc000000460?}, 0x6?)
+	/usr/local/go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0002861b0, {0xa48d90, 0xc0001aa690})
+	/usr/local/go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	/usr/local/go/src/net/http/server.go:3454 +0x485
+2025/08/23 23:05:38 server.go:3640: http: panic serving 192.168.18.173:42318: pattern "/downloads/" (registered at /home/kali/g-rat/server/main.go:109) conflicts with pattern "/downloads/" (registered at /home/kali/g-rat/server/main.go:81):
+/downloads/ matches the same requests as /downloads/
+goroutine 24 [running]:
+net/http.(*conn).serve.func1()
+	/usr/local/go/src/net/http/server.go:1947 +0xbe
+panic({0x91d460?, 0xc000377530?})
+	/usr/local/go/src/runtime/panic.go:792 +0x132
+net/http.(*ServeMux).register(...)
+	/usr/local/go/src/net/http/server.go:2872
+net/http.Handle({0x99890e?, 0xc00029ea80?}, {0xa451c0?, 0xc000392510?})
+	/usr/local/go/src/net/http/server.go:2856 +0x79
+main.redirectToDashboard({0xa487f8?, 0xc00029ea80?}, 0xc000183b38?)
+	/home/kali/g-rat/server/main.go:109 +0xf7
+net/http.HandlerFunc.ServeHTTP(0xd7dec0?, {0xa487f8?, 0xc00029ea80?}, 0x6ac216?)
+	/usr/local/go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x473e59?, {0xa487f8, 0xc00029ea80}, 0xc000283540)
+	/usr/local/go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0002026f0?}, {0xa487f8?, 0xc00029ea80?}, 0x6?)
+	/usr/local/go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000208510, {0xa48d90, 0xc0001aa690})
+	/usr/local/go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	/usr/local/go/src/net/http/server.go:3454 +0x485
+2025/08/23 23:05:39 server.go:3640: http: panic serving 192.168.18.173:42330: pattern "/downloads/" (registered at /home/kali/g-rat/server/main.go:109) conflicts with pattern "/downloads/" (registered at /home/kali/g-rat/server/main.go:81):
+/downloads/ matches the same requests as /downloads/
+goroutine 44 [running]:
+net/http.(*conn).serve.func1()
+	/usr/local/go/src/net/http/server.go:1947 +0xbe
+panic({0x91d460?, 0xc00021c5a0?})
+	/usr/local/go/src/runtime/panic.go:792 +0x132
+net/http.(*ServeMux).register(...)
+	/usr/local/go/src/net/http/server.go:2872
+net/http.Handle({0x99890e?, 0xc000220e00?}, {0xa451c0?, 0xc000202ff0?})
+	/usr/local/go/src/net/http/server.go:2856 +0x79
+main.redirectToDashboard({0xa487f8?, 0xc000220e00?}, 0xc000185b38?)
+	/home/kali/g-rat/server/main.go:109 +0xf7
+net/http.HandlerFunc.ServeHTTP(0xd7dec0?, {0xa487f8?, 0xc000220e00?}, 0x6ac216?)
+	/usr/local/go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x473e59?, {0xa487f8, 0xc000220e00}, 0xc000205400)
+	/usr/local/go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000392180?}, {0xa487f8?, 0xc000220e00?}, 0x6?)
+	/usr/local/go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0002867e0, {0xa48d90, 0xc0001aa690})
+	/usr/local/go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	/usr/local/go/src/net/http/server.go:3454 +0x485
+2025/08/23 23:07:18 server.go:3640: http: panic serving 192.168.18.173:47054: pattern "/downloads/" (registered at /home/kali/g-rat/server/main.go:109) conflicts with pattern "/downloads/" (registered at /home/kali/g-rat/server/main.go:81):
+/downloads/ matches the same requests as /downloads/
+goroutine 82 [running]:
+net/http.(*conn).serve.func1()
+	/usr/local/go/src/net/http/server.go:1947 +0xbe
+panic({0x91d460?, 0xc000377810?})
+	/usr/local/go/src/runtime/panic.go:792 +0x132
+net/http.(*ServeMux).register(...)
+	/usr/local/go/src/net/http/server.go:2872
+net/http.Handle({0x99890e?, 0xc00029efc0?}, {0xa451c0?, 0xc000392960?})
+	/usr/local/go/src/net/http/server.go:2856 +0x79
+main.redirectToDashboard({0xa487f8?, 0xc00029efc0?}, 0xc000405b38?)
+	/home/kali/g-rat/server/main.go:109 +0xf7
+net/http.HandlerFunc.ServeHTTP(0xd7dec0?, {0xa487f8?, 0xc00029efc0?}, 0x6ac216?)
+	/usr/local/go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x473e59?, {0xa487f8, 0xc00029efc0}, 0xc000283cc0)
+	/usr/local/go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000202e40?}, {0xa487f8?, 0xc00029efc0?}, 0x6?)
+	/usr/local/go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000208b40, {0xa48d90, 0xc0001aa690})
+	/usr/local/go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	/usr/local/go/src/net/http/server.go:3454 +0x485
+2025/08/23 23:11:11 api.go:93: Agent registered: test () from 
+2025/08/23 23:11:59 api.go:93: Agent registered: test () from 
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/reverse_shell
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/persistence
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/escalate
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/packet_sniffer
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/webcam
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/process_control
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/miner
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/keylogger
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/screenshot
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/port_scan
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/outlook
+2025/08/25 00:06:50 main.go:89: Registered plugin handler: /api/plugin/icloud
